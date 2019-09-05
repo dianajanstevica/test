@@ -3,3 +3,7 @@ main {
     font-family: sans-serif;
     color: fuchsia;
 }
+
+p {
+    color: yellow;
+}
